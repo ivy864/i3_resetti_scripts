@@ -1,3 +1,3 @@
 # i3 Resetti Scripts
 
-Some scripts to make multi-instancing on a single monitor setup in i3 be more nicer (using [resetti](https://github.com/tesselslate/resetti)). Will probably combine them into a single script some day.
+Some scripts to make multi-instancing on a single monitor setup in i3 be more nicer (using [resetti](https://github.com/tesselslate/resetti)).
